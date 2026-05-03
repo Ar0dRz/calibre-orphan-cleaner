@@ -98,7 +98,7 @@ python3 calibre_clean_full.py
 ## Ejemplo de salida
 
 ```
-✅ Backup creado: /Users/drdavid/Biblioteca de calibre/metadata.db.bak_20260503_134710
+✅ Backup creado: /Users/tuusuario/Biblioteca de calibre/metadata.db.bak_20260503_134710
 
 📚 Registros huérfanos encontrados: 544
   [404] Derecho Civil Garfias
